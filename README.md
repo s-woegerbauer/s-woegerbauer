@@ -2,8 +2,6 @@
 <p align="left"> I am currently attending the 2nd grade of HTL Leonding</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-woegerbauer&label=Profile%20views&color=0e75b6&style=flat" alt="s-woegerbauer" /> </p>
 
-- 🔭 I’m currently working on [Advent Of Code 2023](https://github.com/s-woegerbauer/AdventOfCode2023)
-
 - 📫 How to reach me **simon.woeger@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
