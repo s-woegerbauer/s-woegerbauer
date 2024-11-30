@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon Wögerbauer</h1>
-<p align="left"> I am currently attending the 2nd grade of HTL Leonding</p>
+<p align="left"> I am currently attending the 3rd grade of HTL Leonding</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-woegerbauer&label=Profile%20views&color=0e75b6&style=flat" alt="s-woegerbauer" /> </p>
 
 - 📫 How to reach me **simon.woeger@gmail.com**
