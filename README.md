@@ -25,6 +25,21 @@
 
 <img src="https://github-trophies.vercel.app/?username=s-woegerbauer&theme=algolia&row=1&column=9"/>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/s-woegerbauer/s-woegerbauer/output/breakout-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/s-woegerbauer/s-woegerbauer/output/breakout-contribution-graph.svg"
+  />
+  <img
+    alt="Breakout contribution graph"
+    src="https://raw.githubusercontent.com/s-woegerbauer/s-woegerbauer/output/breakout-contribution-graph.svg"
+  />
+</picture>
+
 <!-- ============================================================= -->
 <!--                          TECH STACK                           -->
 <!-- ============================================================= -->
@@ -99,8 +114,6 @@
 
   <img src="https://ghstats.dev/api/card?username=s-woegerbauer&theme=ocean&border_radius=6.5&custom_title=GitHub+Stats&hide=commits%2Cprs%2Cissues%2Chours%2Cgrade" alt="GitHub Stats Card" />
 </div>
-
-<br/>
 
 <!-- ============================================================= -->
 <!--                            FOOTER                             -->
