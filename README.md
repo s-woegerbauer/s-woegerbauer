@@ -23,6 +23,8 @@
 
 <br/>
 
+<img src="https://github-trophies.vercel.app/?username=s-woegerbauer&theme=algolia&row=1&column=9"/>
+
 <!-- ============================================================= -->
 <!--                          TECH STACK                           -->
 <!-- ============================================================= -->
